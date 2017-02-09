@@ -4,7 +4,7 @@ excerpt: NPM puede llegara ser un gran aliado al desarrollar en front end, a con
 ---
 
 Este es un análisis del por que mi blog usa NPM
-
+<!-- more -->
 
 ## Que es eso de la gestión de dependencias
 

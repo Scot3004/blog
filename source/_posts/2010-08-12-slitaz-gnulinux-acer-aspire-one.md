@@ -1,4 +1,5 @@
 ---
+title: SliTaz
 author: Sergio C. Orozco Torres
 tags:
 modified_time: '2011-06-05T18:30:45.973-05:00'
@@ -7,15 +8,14 @@ blogger_orig_url: http://scot3004.blogspot.com/2010/08/slitaz-gnulinux-acer-aspi
 category: linux
 ---
 
-## Intro De Slitaz
 Esta minidistro en su version 3.0 por defecto viene con xOrg,
+<!-- more -->
 SliTaz incluye un gestor de ventanas ligero, el servidor web LightTPD,
 navegadores en modo texto y en modo gráfico, Gparted, un cliente IRC,
 editores de texto, cliente/servidor SSH, SQLite, PHP, un wiki preinstalado,
 editor de audio, numerosas utilidades de sistema, soporte para disco duro,
 red, usb, tarjeta de sonido, y mucho más.
 
-{{ site.split }}
 
 El gestor de paquetes de esta minidistro es tazpkg,
 este se encuentra disponible tanto en versión shell o

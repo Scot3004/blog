@@ -11,6 +11,7 @@ category: dev
 ---
 
 ~~Recientemente ando~~ experimentando con ajax, usando como framework jquery, implementando elementos css3 y entre todo ese sancocho he encontrado lo siguiente:<br />
+<!-- more -->
 claro no aspiren que sea eficiente
 Para cargar una pagina y un script
 

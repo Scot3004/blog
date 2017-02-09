@@ -13,7 +13,7 @@ Algunos afirman que Windows es mejor, otros que Linux.
 
 La realidad es la siguiente, las personas se ajustan a lo que tienen cerca a lo que fueron educadas, la realidad es que en los colegios donde estudie informática era básicamente Windows y Office, esto es uno de las cosas que ha ayudado a la expansión de Windows, en realidad vine a aprender sobre Linux gracias a los compañeros de la universidad.<br />
 
-{{ site.split }}
+<!-- more -->
 
 Resalto en Windows su Interfaz Gráfica de Usuario,he notado que es de fácil aprendizaje, y bastante consistente, además de esto Windows ofrece un catalogo básico (honestamente me parece muy básico), el soporte de drivers es bueno, Windows es respaldado por muchas grandes empresas en el mundo de la informática, ensambladores de hardware desarrolladores de juegos en fin...<br />
 Respecto a Linux que a pesar de ser un sistema operativo relativamente nuevo tiene una gran comunidad esforzada a mejorarlo, esta bien, existen muchas distribuciones, y cada una con su comunidad pero al fin de cuentas es una sola, una gran comunidad que se ayuda entre si, desde las distribuciones mas ligeras a las mas pesadas, Linux le ofrece al usuario la posibilidad de personalizarlo a niveles que Windows no puede llegar, llevando a que el usuario corriente se sienta agobiado, por eso es que muchos tienden a no escojer linux.<br />

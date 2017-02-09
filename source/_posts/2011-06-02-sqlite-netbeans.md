@@ -11,7 +11,8 @@ category: dev
 ---
 
 Como podemos darnos cuenta para tener una aplicacion robusta necesitamos un motor de bases de datos,
-aunque mysql es el mas usado y el mas optimo para servidores,
+aunque mysql es el mas usado y el mas optimo para servidores
+<!-- more -->
 al momento de hacer aplicaciones que sean facilmente portables se hace un infierno usarlo,
 por eso en estos casos es recomendable usar un motor de bases de datos mas ligero, alli es donde entra a jugar SQLite.
 SQLite es un gestor de bases de datos que proporciona gran portabilidad debido a que este funciona a travez de archivos,
@@ -23,7 +24,6 @@ bueno resulta que SQLite te ahorra esa parte,
 ademas en caso de querer un motor mas potente,
 no te tocara reescribir si creaste un conector abierto a las posibilidades,
 como yo XD, en fin.
-<!-- more -->
 Respecto a los pasos con url las instrucciones de instalacion estan en la pagina de cada uno
 1. instalar netbeans en caso que no lo tengas instalado [http://www.netbeans.org/"](http://www.netbeans.org/)
 2. crea tu proyecto en java netbeans

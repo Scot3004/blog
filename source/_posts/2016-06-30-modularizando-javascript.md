@@ -5,7 +5,9 @@ author: Sergio C. Orozco Torres
 excerpt: Divide y venceras, una gran verdad del desarrollo web
 ---
 
-Desarrollando aplicaciones aprendemos que hay muchas maneras de dar solución a un problema, todas ellas validas, muchas puede que compartan su enfoque asi como pueden haber implementaciones con otra forma de ver el problema. El problema llega cuando se requiere dar solución a algo que anteriormente ya otros dieron solución, sin embargo hacer todo desde 0 no es conveniente dado que puede tomar mucho tiempo.
+Desarrollando aplicaciones aprendemos que hay muchas maneras de dar solución a un problema.
+<!-- more -->
+Todas ellas validas, muchas puede que compartan su enfoque asi como pueden haber implementaciones con otra forma de ver el problema. El problema llega cuando se requiere dar solución a algo que anteriormente ya otros dieron solución, sin embargo hacer todo desde 0 no es conveniente dado que puede tomar mucho tiempo.
 
 ### Herramientas para hacer un javascript modular
 

@@ -23,8 +23,11 @@ gallery:
 
 Screenshoots de mi Linux
 Un toque personal de lo que se puede hacer con GNU/Linux
+<!-- more -->
 un tiempo en hacer el escritorio mas agradable es un tiempo de aprendizaje
 Openbox
 LXDE
 escritorios de por si hermosos a continuacion las capturas de ellos
+!(screenshoots/openbox.png)[Openbox + Nitrogen + Kmixer + KNetworkManager + Conky + Krunner + Tint2]
+
 
