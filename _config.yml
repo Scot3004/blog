@@ -3,17 +3,17 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
+title: Scot3004
 subtitle:
 description:
-author: John Doe
-language:
+author: Sergio Orozco
+language: en
 timezone:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://yoursite.com
-root: /
+url: http://scot3004.github.io
+root: /blog
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 
@@ -64,9 +64,16 @@ pagination_dir: page
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: landscape
+theme: spfk
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type:
+
+menu:
+  prueba: prueba
+
+subnav:
+  github: "https://github.com/scot3004"
+ 
